@@ -1,2 +1,1 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-
+<h1> CI CD PIPELINE FOR MAVEN PROJECT </h1>
